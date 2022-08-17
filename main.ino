@@ -1,3 +1,7 @@
+class Led{
+    
+}
+
 class Motor{
     
 }
