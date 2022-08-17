@@ -1,6 +1,9 @@
 class Pulsador{
+
+};
+class Led{
     
-}
+};
 
 class Motor{
     
